@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: 脱プログラミング初心者教室
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+# heading: 脱プログラミング初心者教室
+subheading: 1日1回チェックで脱初心者
 mainpitch:
-  title: Why Kaldi
+  title: 脱プログラミング初心者教室
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    プログラミング初心者の方が、中級者・上級者になるためのサイトです。
+    最新のプログラミング関連の情報や動画、などを毎日更新でお届けします。
+    1日1回チェックしているうちに中級者・上級者プログラマーになれるようなサイトを目指します。
 intro:
   blurbs:
     - image: /img/coffee.png
